@@ -1,4 +1,12 @@
-import OOP_task.*;
+import OOP_task.Booking.BookingService;
+import OOP_task.Movie_MovieScreening.Movie;
+import OOP_task.Movie_MovieScreening.Screening;
+import OOP_task.People.Customer;
+import OOP_task.Places.Cinema;
+import OOP_task.Places.TheaterHall;
+import OOP_task.Products.Ticket;
+import OOP_task.Products.Snack.Snack;
+import OOP_task.Products.Snack.SnackOrder;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.

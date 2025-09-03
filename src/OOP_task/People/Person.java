@@ -1,4 +1,4 @@
-package OOP_task;
+package OOP_task.People;
 
 public class Person {
     private String name;

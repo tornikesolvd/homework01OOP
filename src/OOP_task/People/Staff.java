@@ -1,6 +1,6 @@
-package OOP_task;
+package OOP_task.People;
 
-public class Staff extends  Person{
+public class Staff extends Person {
         private String role;
 
         public Staff(String name, String email, String role){

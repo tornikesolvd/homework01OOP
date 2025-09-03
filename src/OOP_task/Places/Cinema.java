@@ -1,4 +1,4 @@
-package OOP_task;
+package OOP_task.Places;
 
 public class Cinema {
     private String name;

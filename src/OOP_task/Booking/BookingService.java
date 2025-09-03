@@ -1,4 +1,8 @@
-package OOP_task;
+package OOP_task.Booking;
+
+import OOP_task.Movie_MovieScreening.Screening;
+import OOP_task.People.Customer;
+import OOP_task.Products.Ticket;
 
 public class BookingService {
     private static int bookingCounter;

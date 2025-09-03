@@ -1,6 +1,6 @@
-package OOP_task;
+package OOP_task.Products;
 
-public class Ticket extends Product{
+public class Ticket extends Product {
     private int seatNumber;
     private boolean occupied;
 
