@@ -1,7 +1,7 @@
-package OOP_task.Movie_MovieScreening;
+package movie_moviescreening;
 
-import OOP_task.Places.TheaterHall;
-import OOP_task.Products.Ticket;
+import places.TheaterHall;
+import products.Ticket;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package OOP_task.People;
+package people;
 
 public class Staff extends Person {
         private String role;

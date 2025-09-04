@@ -1,4 +1,4 @@
-package OOP_task.Products;
+package products;
 
 public class Ticket extends Product {
     private int seatNumber;

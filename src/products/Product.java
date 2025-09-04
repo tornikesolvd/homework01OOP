@@ -1,4 +1,4 @@
-package OOP_task.Products;
+package products;
 
 public class Product {
     private String name;

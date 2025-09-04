@@ -1,4 +1,4 @@
-package OOP_task.Movie_MovieScreening;
+package movie_moviescreening;
 
 public class Movie {
     private String title;

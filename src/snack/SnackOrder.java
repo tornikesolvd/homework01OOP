@@ -1,6 +1,6 @@
-package OOP_task.Products.Snack;
+package snack;
 
-import OOP_task.People.Customer;
+import people.Customer;
 
 import java.util.ArrayList;
 import java.util.List;

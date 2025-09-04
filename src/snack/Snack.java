@@ -1,6 +1,6 @@
-package OOP_task.Products.Snack;
+package snack;
 
-import OOP_task.Products.Product;
+import products.Product;
 
 public class Snack extends Product {
     public Snack(String name, double price) {

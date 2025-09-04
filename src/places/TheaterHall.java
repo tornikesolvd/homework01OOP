@@ -1,4 +1,4 @@
-package OOP_task.Places;
+package places;
 
 public class TheaterHall {
     private int hallNumber;
